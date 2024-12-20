@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658303234997",
+    "project_id": "purpal-9630d",
+    "storage_bucket": "purpal-9630d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658303234997:android:7ea28f6645bb8d2409dffc",
+        "android_client_info": {
+          "package_name": "com.Nathan.PurPal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYQTIaCFjmmaFNC7kKrmUkQOdY3lJ6I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
